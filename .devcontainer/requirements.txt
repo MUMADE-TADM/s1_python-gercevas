@@ -1,0 +1,5 @@
+ipykernel
+matplotlib
+scikit-learn
+tensorflow
+psycopg
