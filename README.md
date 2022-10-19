@@ -5,3 +5,5 @@ Repositorio para la sesión 1 (19/10/2022)
 Si no conoces git pásate por [Learn Git Branching](https://learngitbranching.js.org/).
 
 Autor: Germán Andrés Cevallos Meneses
+
+Fecha: 19 de octubre de 2022
